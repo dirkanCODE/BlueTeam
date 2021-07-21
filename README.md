@@ -1,7 +1,7 @@
 # CVEs-Microsoft
 Script Powershell para generar fichero .CSV con las vulnerabilidades (CVEs) publicadas por MS cada mes
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Os dejo este script por si puede seros de utilidad.  Sirve para bajarse los CVEs que publica MS cada mes a un .csv, y así analizarlos de una manera más sencilla en Excel con una Tabla Dinámica.  Dejo también el .csv y el fichero excel ya con la tabla dinámica del mes de Julio de 2021.
+Os dejo este script por si puede seros de utilidad.  Sirve para bajarse los CVEs que publica MS cada mes a un .CSV, y así analizarlos de una manera más sencilla en Excel con una Tabla Dinámica.  Dejo también el .csv y el fichero excel ya con la tabla dinámica del mes de Julio de 2021.
  
 Esto es una muestra de los datos en excel que obtiene el script:
 

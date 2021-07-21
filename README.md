@@ -20,6 +20,6 @@ El fichero de salida lo deja en C:\Temp, también podéis cambiarlo, si queréis
 ![image](https://user-images.githubusercontent.com/87771600/126517929-9a735086-72fc-4d00-9f9c-609d0884c4ac.png)
 
 
-Espero que os sea de utilidad!...
+Espero que os sea de utilidad...
 
 dirkan

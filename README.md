@@ -1,2 +1,2 @@
 # BlueTeam Tools
-Scripts y Utilidades para Blue Teams (Equipos defensivos de Ciberseguridad).
+Scripts y Utilidades para Blue Teams (Equipos Defensivos de Ciberseguridad).

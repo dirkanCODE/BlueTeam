@@ -1,4 +1,4 @@
-#By: @dirkanSYN -> https://twitter.com/dirkanSYN
+#By: dirkan (@dirkanSYN) -> https://twitter.com/dirkanSYN
 
 #Install-Module -Name msrcsecurityupdates -force
 #Import-module MsrcSecurityUpdates

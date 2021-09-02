@@ -1,4 +1,6 @@
-﻿#Install-Module -Name msrcsecurityupdates -force
+#By: @dirkanSYN -> https://twitter.com/dirkanSYN
+
+#Install-Module -Name msrcsecurityupdates -force
 #Import-module MsrcSecurityUpdates
 
 $MES = '2021-Jul'
